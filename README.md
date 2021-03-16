@@ -1,0 +1,3 @@
+Code notebook AskHistorians_IR.ipynb contains the control flow.
+
+You won't be able to download from my Google Storage account but you can copy the dataset to your own account and follow similar steps to download it locally. The data has already been generated and included. You should be able to skip to the section #Create BSBI instance, and instantiate a BSBI object which you can then call the tf-idf based query method. 
